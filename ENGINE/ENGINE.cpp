@@ -5,9 +5,6 @@
 #include "ENGINE.h"
 
 
-//mario.palomino@ext.live.u-tad.com
-
-
 bool Engine::Init() 
 { 
 	m_screen = tigrWindow(m_iWidthScreen, m_iHeightScreen, "ENGINE", 0);
